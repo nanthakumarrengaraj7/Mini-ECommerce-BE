@@ -1,0 +1,257 @@
+[
+    {
+        "name": "Oppo F21s Pro 5G",
+        "price": 15000,
+        "description": "Oppo F21s Pro 5G is a powerful device",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/assets/images/products/1.jpg"
+            },
+            {
+                "image": "/assets/images/products/2.jpg"
+            }
+        ],
+        "category": "Mobile phones",
+        "seller": "Amazon",
+        "stock": 15
+    },
+    {
+        "name": "Samsung Galaxy A54",
+        "price": 28999,
+        "description": "Samsung Galaxy A54 comes with AMOLED display",
+        "ratings": 4.3,
+        "images": [
+            {
+                "image": "/assets/images/products/3.jpg"
+            },
+            {
+                "image": "/assets/images/products/4.jpg"
+            }
+        ],
+        "category": "Mobile phones",
+        "seller": "Samsung Store",
+        "stock": 32
+    },
+    {
+        "name": "iPhone 14",
+        "price": 69999,
+        "description": "Apple iPhone 14 with A15 Bionic chip",
+        "ratings": 4.7,
+        "images": [
+            {
+                "image": "/assets/images/products/5.jpg"
+            },
+            {
+                "image": "/assets/images/products/6.jpg"
+            }
+        ],
+        "category": "Mobile phones",
+        "seller": "Apple Store",
+        "stock": 20
+    },
+    {
+        "name": "Vivo V29 Pro",
+        "price": 32999,
+        "description": "Vivo V29 Pro with 120Hz AMOLED display",
+        "ratings": 4.4,
+        "images": [
+            {
+                "image": "/assets/images/products/7.jpg"
+            },
+            {
+                "image": "/assets/images/products/8.jpg"
+            }
+        ],
+        "category": "Mobile phones",
+        "seller": "Vivo Store",
+        "stock": 25
+    },
+    {
+        "name": "Realme 11 Pro",
+        "price": 23999,
+        "description": "Realme 11 Pro with curved display",
+        "ratings": 4.3,
+        "images": [
+            {
+                "image": "/assets/images/products/9.jpg"
+            },
+            {
+                "image": "/assets/images/products/10.jpg"
+            }
+        ],
+        "category": "Mobile phones",
+        "seller": "Flipkart",
+        "stock": 40
+    },
+    {
+        "name": "Redmi Note 13",
+        "price": 15999,
+        "description": "Redmi Note 13 with MediaTek Dimensity processor",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "/assets/images/products/11.jpg"
+            },
+            {
+                "image": "/assets/images/products/12.jpg"
+            }
+        ],
+        "category": "Mobile phones",
+        "seller": "Mi Store",
+        "stock": 60
+    },
+    {
+        "name": "OnePlus Nord CE 3",
+        "price": 27999,
+        "description": "OnePlus Nord CE 3 with OxygenOS",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/assets/images/products/13.jpg"
+            },
+            {
+                "image": "/assets/images/products/14.jpg"
+            }
+        ],
+        "category": "Mobile phones",
+        "seller": "OnePlus Store",
+        "stock": 35
+    },
+    {
+        "name": "Poco X5 Pro",
+        "price": 19999,
+        "description": "Poco X5 Pro with Snapdragon 778G",
+        "ratings": 4.4,
+        "images": [
+            {
+                "image": "/assets/images/products/15.jpg"
+            },
+            {
+                "image": "/assets/images/products/16.jpg"
+            }
+        ],
+        "category": "Mobile phones",
+        "seller": "Poco Store",
+        "stock": 45
+    },
+    {
+        "name": "Asus ROG Phone 6",
+        "price": 59999,
+        "description": "Asus ROG Phone 6 for gaming",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "/assets/images/products/17.jpg"
+            },
+            {
+                "image": "/assets/images/products/18.jpg"
+            }
+        ],
+        "category": "Mobile phones",
+        "seller": "Asus Store",
+        "stock": 10
+    },
+    {
+        "name": "Google Pixel 7",
+        "price": 49999,
+        "description": "Pixel 7 with Tensor G2 processor",
+        "ratings": 4.6,
+        "images": [
+            {
+                "image": "/assets/images/products/19.jpg"
+            },
+            {
+                "image": "/assets/images/products/20.jpg"
+            }
+        ],
+        "category": "Mobile phones",
+        "seller": "Google Store",
+        "stock": 22
+    },
+    {
+        "name": "HP Pavilion 15",
+        "price": 56999,
+        "description": "HP Pavilion 15 with Ryzen 5",
+        "ratings": 4.4,
+        "images": [
+            {
+                "image": "/assets/images/products/21.jpg"
+            },
+            {
+                "image": "/assets/images/products/22.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "HP Store",
+        "stock": 30
+    },
+    {
+        "name": "Dell Inspiron 3511",
+        "price": 49999,
+        "description": "Dell Inspiron with 11th Gen i5",
+        "ratings": 4.3,
+        "images": [
+            {
+                "image": "/assets/images/products/23.jpg"
+            },
+            {
+                "image": "/assets/images/products/24.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Dell Store",
+        "stock": 20
+    },
+    {
+        "name": "Lenovo IdeaPad Slim 5",
+        "price": 62999,
+        "description": "Lenovo Slim 5 lightweight ultrabook",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/assets/images/products/25.jpg"
+            },
+            {
+                "image": "/assets/images/products/26.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Lenovo Store",
+        "stock": 15
+    },
+    {
+        "name": "MacBook Air M1",
+        "price": 84999,
+        "description": "Apple MacBook Air with M1 chip",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "/assets/images/products/27.jpg"
+            },
+            {
+                "image": "/assets/images/products/28.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Apple Store",
+        "stock": 18
+    },
+    {
+        "name": "Asus TUF Gaming F15",
+        "price": 69999,
+        "description": "Asus TUF gaming laptop",
+        "ratings": 4.6,
+        "images": [
+            {
+                "image": "/assets/images/products/29.jpg"
+            },
+            {
+                "image": "/assets/images/products/30.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Asus Store",
+        "stock": 12
+    }
+]

@@ -22,9 +22,9 @@ if (process.env.NODE_ENV == 'production') {
     });
 }
 
-connectDatabase();                                                                                  
+connectDatabase();
 
 
-app.listen(process.env.PORT, () => {
+app.listen(process.env.PORT || 5000, () => {
     console.log(`Server listening to port ${process.env.PORT} in ${process.env.NODE_ENV}`);
 })
